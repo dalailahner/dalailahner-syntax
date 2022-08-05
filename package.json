@@ -1,0 +1,20 @@
+{
+  "name": "dalailahner-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": false,
+  "description": "Dark syntax theme with a sultry red as main accent color.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dalailahner",
+    "gruvbox",
+    "dark",
+    "modern"
+  ],
+  "repository": "https://github.com/dalailahner/dalailahner-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
